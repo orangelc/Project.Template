@@ -1,0 +1,15 @@
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Infraestructure.dll.config
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Infraestructure.dll
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Infraestructure.pdb
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\EntityFramework.dll
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Entities.dll
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Repositories.dll
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Entities.pdb
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\Project.Repositories.pdb
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\EntityFramework.xml
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\obj\Debug\Project.Infraestructure.csprojResolveAssemblyReference.cache
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\obj\Debug\Project.Infraestructure.csproj.CoreCompileInputs.cache
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\obj\Debug\Project.Infraestructure.dll
+D:\IntegraIT\GIT\Project.Template\Project.Infraestructure\obj\Debug\Project.Infraestructure.pdb

@@ -1,0 +1,8 @@
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\bin\Debug\Project.Repositories.dll
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\bin\Debug\Project.Repositories.pdb
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\bin\Debug\Project.Entities.dll
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\bin\Debug\Project.Entities.pdb
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\obj\Debug\Project.Repositories.csprojResolveAssemblyReference.cache
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\obj\Debug\Project.Repositories.csproj.CoreCompileInputs.cache
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\obj\Debug\Project.Repositories.dll
+D:\IntegraIT\GIT\Project.Template\Project.Repositories\obj\Debug\Project.Repositories.pdb
